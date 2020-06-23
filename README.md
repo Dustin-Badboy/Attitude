@@ -9,7 +9,7 @@ If you want me to control my temper ,You need to control your stupidity
   
 1. RGUKT
     1. Nuzvid
-    2. Ongole
-    3. RKValley
-    4. Srikakulam
+    1. Ongole
+    1. RKValley
+    1. Srikakulam
 
