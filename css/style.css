@@ -1,0 +1,29 @@
+/*body{
+	background-color: black;
+	color:white;*/
+}
+table{
+	border-color: white;
+	padding: 10px;
+	border-spacing: 10px;
+	text-align: center;
+}
+a{
+	border:3px solid red;
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+	border-radius: 20px;
+	text-decoration-line: none;
+}
+a:hover{
+	background-color: white;
+	color: black;
+	font-size: 150%;
+	border:5px solid blue;
+}
+/*img{
+	border:10px solid white;
+	border-radius: 20px;
+	padding: 25px;*/
+}
